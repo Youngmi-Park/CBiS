@@ -9,7 +9,7 @@ Sookmyung Women's University Center for advanced Bioinformatic&amp;Systems medic
 2. Classify STK11 mutation cell line and wildtype cell line(in Lung(LUAD) NSCLC)<br>
 Lung → NSCLC,(SCLC,OTHER) → Check STK11 mutation
 
-nbsp;nbsp;4 Types of cell lines
+&nbsp;&nbsp;4 Types of cell lines
 - LUNG NSCLC STK11 mutant
 - LUNG NSCLC STK11 wild type
 - LUNG Others
