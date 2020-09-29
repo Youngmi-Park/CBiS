@@ -10,10 +10,10 @@ Sookmyung Women's University Center for advanced Bioinformatic&amp;Systems medic
 Lung → NSCLC,(SCLC,OTHER) → Check STK11 mutation
 
   4 Types of cell lines<br>
-1)LUNG NSCLC STK11 mutant<br>
-2)LUNG NSCLC STK11 wild type<br>
-3)LUNG Others<br>
-4)Others <br>
+- LUNG NSCLC STK11 mutant
+- LUNG NSCLC STK11 wild type
+- LUNG Others
+- Others
 
 Calculate fold change t-test(pvalue)
 1,2 / 1,3 / 1,4
