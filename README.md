@@ -18,9 +18,9 @@ Lung → NSCLC,(SCLC,OTHER) → Check STK11 mutation
 Calculate fold change t-test(pvalue)
 1,2 / 1,3 / 1,4
 
-Organize CCLE 
-shRNA : DRIVE
-sgRNA : Depmap.org
+Organize CCLE <br>
+shRNA : DRIVE<br>
+sgRNA : Depmap.org<br>
 
 ------------------------
 CCLE COSMIC annotation : cell line(1267) - Major gene mutation information
