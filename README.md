@@ -9,11 +9,11 @@ Sookmyung Women's University Center for advanced Bioinformatic&amp;Systems medic
 2. Classify STK11 mutation cell line and wildtype cell line(in Lung(LUAD) NSCLC)
 Lung → NSCLC,(SCLC,OTHER) → Check STK11 mutation
 
-4 Types of cell lines
-1)LUNG NSCLC STK11 mutant
-2)LUNG NSCLC STK11 wild type
-3)LUNG Others
-4)Others 
+4 Types of cell lines<br>
+1)LUNG NSCLC STK11 mutant<br>
+2)LUNG NSCLC STK11 wild type<br>
+3)LUNG Others<br>
+4)Others <br>
 
 Calculate fold change t-test(pvalue)
 1,2 / 1,3 / 1,4
